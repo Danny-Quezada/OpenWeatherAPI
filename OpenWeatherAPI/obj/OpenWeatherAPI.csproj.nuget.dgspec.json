@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {}
+    "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj": {
+    "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj",
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj",
         "projectName": "OpenWeatherApi.AppCore",
-        "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj",
         "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\obj\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj"
+              "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj"
               },
-              "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj"
+              "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
+    "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj",
         "projectName": "OpenWeatherAPI.Domain",
-        "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
+    "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj",
         "projectName": "OpenWeatherAPI.Infraestructure",
-        "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -161,8 +161,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj"
+              "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Domain\\OpenWeatherAPI.Domain.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {
+    "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
         "projectName": "OpenWeatherAPI",
-        "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+        "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
         "packagesPath": "C:\\Users\\Quezada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI\\obj\\",
+        "outputPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -231,11 +231,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj": {
-                "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj"
+              "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherApi.AppCore\\OpenWeatherApi.AppCore.csproj"
               },
-              "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj"
+              "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Quezada\\Desktop\\3fasd\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj"
               }
             }
           }

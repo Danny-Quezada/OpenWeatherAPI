@@ -31,14 +31,19 @@ namespace OpenWeatherAPI
         {
             if (!String.IsNullOrEmpty(txtSearch.Texts))
             {
-                var response = await htttp.GetAsync("https://api.openweathermap.org/data/2.5/weather?q="+txtSearch.Texts+"&units=metric&lang=sp&appid="+token);
-                if (response.IsSuccessStatusCode)
+                //var response = await htttp.GetAsync("https://api.openweathermap.org/data/2.5/weather?q="+txtSearch.Texts+"&units=metric&lang=sp&appid="+token);
+                //  if (response.IsSuccessStatusCode)
+                //{
+                //   // var body = await response.Content.ReadAsStringAsync();
+                //    Climate climate = services.Get(body);
+                //    Rellenar(climate);
+                //}
+                Climate climate = services.Get(txtSearch.Texts);
+                if (climate != null)
                 {
-                    var body = await response.Content.ReadAsStringAsync();
-                    Climate climate = services.Get(body);
                     Rellenar(climate);
                 }
-              
+                
             }
             
         }
@@ -61,6 +66,17 @@ namespace OpenWeatherAPI
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtSearch_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (Char.IsNumber(e.KeyChar))
+            {
+                e.Handled = true;
+
+                MessageBox.Show("NO SE PUEDEN NUMEROS");
+
+            }
         }
     }
 }

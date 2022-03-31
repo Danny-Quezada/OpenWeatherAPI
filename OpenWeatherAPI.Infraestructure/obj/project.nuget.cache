@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnDd8EdQDFGGJ3SBqHYZLuqyvh5VaFQuWv+U+qfEP0kaPCyksfkcrr80nlhKjhbrE+5jWJEeboUeInDxfR+YzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quezada\\source\\repos\\OpenWeatherAPI\\OpenWeatherAPI.Infraestructure\\OpenWeatherAPI.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quezada\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\Quezada\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

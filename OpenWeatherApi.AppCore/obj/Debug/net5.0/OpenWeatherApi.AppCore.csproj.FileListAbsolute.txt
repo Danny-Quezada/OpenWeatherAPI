@@ -1,0 +1,17 @@
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherApi.AppCore.deps.json
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherApi.AppCore.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\ref\OpenWeatherApi.AppCore.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherApi.AppCore.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherAPI.Domain.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.csproj.CopyComplete
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\ref\OpenWeatherApi.AppCore.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\obj\Debug\net5.0\OpenWeatherApi.AppCore.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherAPI.Infraestructure.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherApi.AppCore\bin\Debug\net5.0\OpenWeatherAPI.Infraestructure.pdb

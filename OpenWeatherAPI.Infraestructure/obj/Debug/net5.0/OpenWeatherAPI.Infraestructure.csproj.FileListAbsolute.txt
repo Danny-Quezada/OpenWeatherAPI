@@ -1,0 +1,15 @@
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\OpenWeatherAPI.Infraestructure.deps.json
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\OpenWeatherAPI.Infraestructure.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\ref\OpenWeatherAPI.Infraestructure.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\OpenWeatherAPI.Infraestructure.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\bin\Debug\net5.0\OpenWeatherAPI.Domain.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.csproj.CopyComplete
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\ref\OpenWeatherAPI.Infraestructure.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Infraestructure\obj\Debug\net5.0\OpenWeatherAPI.Infraestructure.pdb

@@ -1,0 +1,12 @@
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\bin\Debug\net5.0\OpenWeatherAPI.Domain.deps.json
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\bin\Debug\net5.0\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\bin\Debug\net5.0\ref\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\bin\Debug\net5.0\OpenWeatherAPI.Domain.pdb
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.AssemblyInfo.cs
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\ref\OpenWeatherAPI.Domain.dll
+C:\Users\Quezada\source\repos\OpenWeatherAPI\OpenWeatherAPI.Domain\obj\Debug\net5.0\OpenWeatherAPI.Domain.pdb
